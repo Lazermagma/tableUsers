@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Name": "Ahmed Ali",
+    "Address": "123 Nile St, Cairo",
+    "Telephone": "01012345678",
+    "Image": "assets/images/person.png",
+    "Age": 30,
+    "Location": "Cairo",
+    "Gender": "Male"
+  },
+  {
+    "Id": 2,
+    "Name": "Mona Hassan",
+    "Address": "456 Pyramid Rd, Giza",
+    "Telephone": "01023456789",
+    "Image": "./assets/images/person.png",
+    "Age": 25,
+    "Location": "Giza",
+    "Gender": "Female"
+  },
+  {
+    "Id": 3,
+    "Name": "Youssef Mohamed",
+    "Address": "789 Alexandria Ave, Alexandria",
+    "Telephone": "01034567890",
+    "Image": "./assets/images/person.png",
+    "Age": 35,
+    "Location": "Alexandria",
+    "Gender": "Male"
+  },
+  {
+    "Id": 4,
+    "Name": "Sara Mostafa",
+    "Address": "321 Tahrir Square, Cairo",
+    "Telephone": "01045678901",
+    "Image": "./assets/images/person.png",
+    "Age": 28,
+    "Location": "Cairo",
+    "Gender": "Female"
+  },
+  {
+    "Id": 5,
+    "Name": "Omar Ezzat",
+    "Address": "654 Luxor St, Luxor",
+    "Telephone": "01056789012",
+    "Image": "./assets/images/person.png",
+    "Age": 32,
+    "Location": "Luxor",
+    "Gender": "Male"
+  }
+]
